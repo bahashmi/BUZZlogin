@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052856181193",
+    "firebase_url": "https://hashmicohomesecuritydevice.firebaseio.com",
+    "project_id": "hashmicohomesecuritydevice",
+    "storage_bucket": "hashmicohomesecuritydevice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052856181193:android:ae0973da84e4fadb",
+        "android_client_info": {
+          "package_name": "com.example.badrhashmi.hashmicohomesecuritydevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052856181193-j5d93snta5ftueq4hia0dat36uahijkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.badrhashmi.hashmicohomesecuritydevice",
+            "certificate_hash": "9b1f5094195eff884963908eae72350dd67ef954"
+          }
+        },
+        {
+          "client_id": "1052856181193-ec0qsbquo1pcebnu2subr4aha117sd58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3amjsx71e0pSdwBQQDhIkmUC-aS7zRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052856181193-ec0qsbquo1pcebnu2subr4aha117sd58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
